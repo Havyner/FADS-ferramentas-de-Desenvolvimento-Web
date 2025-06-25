@@ -5,10 +5,16 @@
 p{
     text-align: justify;
     color: red;
+    border: 5px solid red;
 }
 #p{
     color: rebeccapurple;
 }
 .p{
     color: brown;
+}
+
+/*comentário em css*/
+body{
+    background-color: azure;
 }
