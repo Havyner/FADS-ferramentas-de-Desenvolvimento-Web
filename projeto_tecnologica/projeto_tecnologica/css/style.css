@@ -88,3 +88,14 @@
 /*
 ****** Formatação Links ******
 */
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color: #0066CC;
+}
+
+a:hover{
+    text-decoration: underline;
+}
