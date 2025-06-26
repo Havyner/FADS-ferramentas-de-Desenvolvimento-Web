@@ -35,3 +35,24 @@
 .white{
     color: #FFFFFF;
 }
+
+/*
+****** CONTENT ******
+*/
+#content{
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#posts{
+    width: 660px;
+    float: left;
+}
+
+.post{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #FFFFFF;
+    text-align: justify;
+}
