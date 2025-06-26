@@ -6,6 +6,31 @@
     margin: 0;
     padding: 0;
 }
+
+/*
+****** Formatações Genéricas ******
+*/
+body{
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #e8e8e8;
+}
+
+h1{
+    color: #252525;
+    font-size: 40px;
+}
+
+h2{
+    color: #0066CC;
+}
+
+h3{
+    color: #565656;
+    background: #CCCCCC;
+    padding: 5px;
+}
+
 /*
 ****** Header ******
 */
@@ -65,6 +90,10 @@
     display: block;
 }
 
+.img-post{
+    width: 620px;
+}
+
 /*
 ****** Right Side ******
 */
@@ -110,3 +139,4 @@ a:hover{
     background: #FFFFFF;
     color: #0066CC;
 }
+
